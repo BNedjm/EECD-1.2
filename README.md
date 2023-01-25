@@ -1,2 +1,2 @@
 # EECD-1.2
-Electronic and electrical circuits designing
+Electronic and Electrical Circuits Designing
